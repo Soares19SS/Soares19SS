@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soares19SS&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats..com/?user=Soares19SS&theme=dark&hide_border=true&ring=FF0000&currStreakLabel=FF0000" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soares19SS&theme=dark&hide_border=true&ring=FF0000&currStreakLabel=FF0000" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soares19SS&layout=compact&langs_count=6&theme=dark&title_color=FF0000&text_color=FFFFFF&hide_border=true" height="150" />
 </p>
 
